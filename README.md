@@ -1,4 +1,4 @@
-# Sreekrishna_Data_Science_Portfolio
+# Sreekrishna's Data Science Portfolio
 This is a collection of data science projects
 
 # Project #1: COVID_19_Prediction_Analysis
