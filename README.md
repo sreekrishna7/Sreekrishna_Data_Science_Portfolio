@@ -5,3 +5,7 @@ This is a collection of data science projects
 
 - Read the data from repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 
+## [Project #2: Nationality_Identificaton](https://github.com/sreekrishna7/Nationality_Identificaton)
+- This is a project for Nationality identification of people from face images downloaded from google images.
+
+- Deep learning image classifying project using fastai libraries.
